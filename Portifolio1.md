@@ -305,13 +305,10 @@ Com um dashboard analítico completo, o DataFlow proporciona uma visão detalhad
 
 - Contribuí ativamente com a prototipação, criação e correção das telas para manter um padrão no frontend e melhorar a usabilidade do usuário.
 
-#### Detalhes 1
-
-![Tela prototipada 1](https://github.com/user-attachments/assets/74fe31ec-720a-4175-84b1-0820b8b81beb)
-
-#### Detalhes 2
-
-![Tela prototipada 2](https://github.com/user-attachments/assets/c90edb98-342c-4bd3-bc55-9dbe138573d7)
+<img width="6175" height="1228" alt="Untitled" src="https://github.com/user-attachments/assets/334f5f65-8d38-48e6-8ada-1f6f4125180e" />
+<img width="6175" height="1304" alt="Untitled-1" src="https://github.com/user-attachments/assets/24be0743-8fec-4c36-a010-d938574c9ea5" />
+<img width="6175" height="1304" alt="Untitled-2" src="https://github.com/user-attachments/assets/871354e0-8e5e-410a-b550-9970769966f2" />
+<img width="6175" height="1304" alt="Untitled-3" src="https://github.com/user-attachments/assets/aae50188-9a04-406f-8e82-1a7211cc11bf" />
 
 ### 2. **Desenvolvimento da Tela da Landing Zone**
 
