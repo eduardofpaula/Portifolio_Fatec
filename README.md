@@ -393,11 +393,7 @@ Durante o desenvolvimento dessa aplicação, a experiência me proporcionou uma 
 
 ### Empresa Parceira • [ITO1](https://www.linkedin.com/company/ito1/posts/?feedView=all)
 
-<img width="542" height="155" alt="GeoTrack (1) 2" src="https://github.com/user-attachments/assets/2706440c-3709-4195-8a13-9f7bc72f8615" />
-
-<p align="center"><img src="" widht="100%"></img>
-<p align="center"><img src="https://user-images.githubusercontent.com/127355284/228393600-18d89b72-0631-4e04-be23-4f14fd5bc29c.png" widht="100%"></img>
-
+<p align="center"><img src="https://github.com/user-attachments/assets/2706440c-3709-4195-8a13-9f7bc72f8615" widht="100%"></img>
 
 <p align="justify">Desenvolvimento de uma aplicação tecnológica voltada para a realização de avaliações 360°, com foco em promover uma análise democratizada de desempenho e comportamento dentro de equipes e organizações.
 
