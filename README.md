@@ -476,3 +476,170 @@ Durante o desenvolvimento dessa aplicação, a experiência me proporcionou uma 
 | Autonomia e Visão de Negócio       | ★★★★☆        |
 | Comunicação e Colaboração          | ★★★★★        |
 | Organização, Planejamento e Entrega| ★★★★☆        |
+
+<br>
+<br>
+<br>
+
+<h1 align="center">5° Semestre</h1>
+
+<div align=center><h1>Track</h1></div>
+
+#### 5° Semestre • [Repositório Github](https://github.com/iNineBD/Track-5Sem2025Main)
+
+### Empresa Parceira • [Youtan](https://www.linkedin.com/company/youtan/)
+
+![track](https://github.com/user-attachments/assets/d84189e6-1014-4e06-ba56-055bcacd798d)
+
+O projeto tem como objetivo desenvolver uma plataforma de gestão e monitoramento de desempenho de projetos, focada em fornecer visibilidade e insights dinâmicos sobre métricas e indicadores.
+
+A plataforma será integrada ao Taiga e ao Jira, permitindo a visualização de dados como número de cards criados e concluídos, tempo médio de execução, distribuição por colaborador, entre outros indicadores relevantes.
+
+Com diferentes níveis de acesso (Operador, Gerente e Administrador), o sistema garantirá que cada perfil visualize apenas as informações pertinentes ao seu papel.
+
+A solução visa aumentar a eficiência, a transparência e a tomada de decisão orientada por dados na gestão de projetos.
+
+## Objetivo
+
+## Tecnologias Utilizadas no Projeto
+
+- **Python:** Linguagem principal utilizada no desenvolvimento do ETL.
+- **Go:** Linguagem utilizada para desenvolvimento do backend da aplicação.
+- **Nuxt.js:** Framework utilizado para desenvolvimento do frontend da aplicação.
+- **Visual Studio Code:** IDE principal utilizada no desenvolvimento, com extensões que facilitaram a produtividade e organização do código.
+- **PyCharm:** IDE utilizada para o desenvolvimento do ETL em Python.
+- **Git & GitHub:** Ferramentas de versionamento de código, garantindo rastreabilidade e colaboração entre os membros do time.
+- **GitHub Actions:** Ferramenta utilizada para automação de fluxos de trabalho, facilitando a integração contínua e entrega contínua (CI/CD).
+- **Jira:** Plataforma utilizada para o gerenciamento ágil de projetos, facilitando a organização e acompanhamento das tarefas.
+- **Docker:** Plataforma utilizada para containerização da aplicação, facilitando o desenvolvimento, teste e implantação.
+- **PostgreSQL:** Banco de dados utilizado para armazenar informações da aplicação.
+- **VirtualBox:** Software de virtualização utilizado para criar ambientes isolados de desenvolvimento e teste.
+- **DigitalOcean:** Plataforma de hospedagem em nuvem utilizada para implantar a aplicação.
+- **Figma:** Ferramenta utilizada para prototipar as telas.
+- **Postman:** Ferramenta utilizada para criar, compartilhar, testar e documentar APIs.
+- **Slack:** Plataforma utilizada para comunicação contínua e alinhamento entre os membros da equipe durante o desenvolvimento do projeto.
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt.js&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-21D789?logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+
+## Minhas Contribuições
+
+> Contribuí ativamente como desenvolvedor do ETL, desempenhando um papel crucial na extração, transformação e carga dos dados provenientes das APIs do Taiga e Jira.
+
+### Conhecimentos Obtidos
+
+### 1. **Desenvolvimento do ETL em Python**
+
+- Contribuí ativamente com o desenvolvimento do ETL em Python, utilizando bibliotecas como Pandas e Requests para extrair, transformar e carregar os dados.
+
+- No ETL envolveu as seguintes etapas:
+  - **Criação de Data Warehouse:** Estruturação do banco de dados PostgreSQL para armazenar os dados extraídos.
+  - **Extração:** Conexão com as APIs do Taiga e Jira para coletar os dados necessários.
+  - **Transformação:** Limpeza, normalização e agregação dos dados para garantir a consistência e qualidade.
+  - **Carga:** Inserção dos dados transformados no banco de dados PostgreSQL.
+  - **Scheduling:** Automatização do processo de ETL para execução periódica, garantindo dados atualizados.
+
+[▶️ Repositório com código do ETL em Python](https://github.com/iNineBD/Track-5Sem2025ETL)
+
+### 2. **Integração com APIs do Taiga e Jira**
+
+- Aprendi muito com integração de APIs, utilizando autenticação, manipulação de endpoints e tratamento de respostas para garantir a correta extração dos dados.
+
+```python
+def auth_taiga():
+    """
+    Authenticate with Taiga and return the token.
+    """
+    # Initialize the Taiga API client
+    api = TaigaAPI()
+    api.auth(username=TAIGA_USER, password=TAIGA_PASSWORD)
+    token = api.token
+    return token
+```
+
+```python
+def get_jira_data():
+    """
+    Fetch data from Jira API using JQL.
+    """
+    jql = "issuetype=Feature"
+
+    url_cards_jira = f"https://{JIRA_HOST}/rest/api/3/search"
+
+    params = {"jql": jql, "maxResults": 100}
+    auth = HTTPBasicAuth(JIRA_USER, JIRA_TOKEN)
+
+    headers_jira = {"Accept": "application/json"}
+
+    response = requests.get(
+        url_cards_jira, headers=headers_jira, params=params, auth=auth
+    )
+
+    return data = response.json()
+```
+
+### 3. **Conexão com Banco de Dados PostgreSQL**
+
+- Aprendi muito sobre conexão com banco de dados PostgreSQL, utilizando a biblioteca Psycopg2 para realizar operações de inserção e consulta dos dados.
+
+```python
+def database_config():
+    load_dotenv()
+
+    DB_USER = os.getenv("DB_USER")
+    DB_PASSWORD = os.getenv("DB_PASSWORD")
+    DB_HOST = os.getenv("DB_HOST")
+    DB_PORT = os.getenv("DB_PORT")
+    DB_DATABASE = os.getenv("DB_DATABASE")
+
+    db = PostgresqlDatabase(
+        DB_DATABASE, user=DB_USER, password=DB_PASSWORD, host=DB_HOST, port=DB_PORT
+    )
+    return db
+
+def connect_database(db):
+    try:
+        db = database_config()
+        db.connect()
+    except OperationalError as e:
+        print(f"{e}")
+        raise
+    return db
+```
+
+### Conhecimentos Obtidos
+
+Durante o desenvolvimento dessa aplicação, aprendi muito sobre ETL(Extract, Transform, Load), como integrar com APIs RESTful, manipular dados com Pandas e trabalhar com bancos de dados relacionais como PostgreSQL. Também adquiri conhecimentos sobre agendamento de tarefas para automatizar o processo de ETL, garantindo que os dados estejam sempre atualizados.
+
+### Hard Skills
+
+| Tecnologia/Metodologia   | Classificação |
+|--------------------------|:------------:|
+| Python                   | ★★★★★        |
+| Pandas                   | ★★★★☆        |
+| Requests                 | ★★★★☆        |
+| Psycopg2                 | ★★★☆☆        |
+| PostgreSQL               | ★★★☆☆        |
+
+### Soft Skills
+
+| Habilidade                        | Classificação |
+|------------------------------------|:------------:|
+| Proatividade                       | ★★★★★        |
+| Gestão de Projetos                 | ★★★★☆        |
+| Comunicação e Colaboração          | ★★★★★        |
+| Organização, Planejamento e Entrega| ★★★★★        |
