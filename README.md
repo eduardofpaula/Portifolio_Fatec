@@ -202,17 +202,17 @@ O sistema permite o controle de prazos, acompanhamento de etapas, registro de or
 
 - Contribui ativamente com a funcionalidade de transporte de notas, onde o usuário pode visualizar as notas dos alunos e transportá-las para o banco de dados, permitindo que os professores possam acompanhar o desempenho dos alunos.
 
-- Funcionalidade Transporte de Notas
+**Funcionalidade Transporte de Notas:**
 
-[▶️ Assista à demonstração da funcionalidade Transporte de Notas](https://github.com/iNineBD/SGTG-2Sem2023/assets/127275110/fbfbe219-08af-4465-a625-c5697b584588)
+https://github.com/iNineBD/SGTG-2Sem2023/assets/127275110/fbfbe219-08af-4465-a625-c5697b584588
 
 ### 3. **Funcionalidade Gerenciamento de Alunos**
 
 - Contribui ativamente com a funcionalidade de gerenciamento de alunos, onde o usuário pode visualizar, cadastrar e editar os alunos, permitindo que os professores possam gerenciar os alunos de forma eficiente.
 
-- Funcionalidade Gerenciamento de Alunos
+**Funcionalidade Gerenciamento de Alunos:**
 
-[▶️ Assista à demonstração da funcionalidade Gerenciamento de Alunos](https://github.com/iNineBD/SGTG-2Sem2023/assets/117841950/81ee4c8f-2b99-4b77-98cf-9f162d69b390)
+https://github.com/iNineBD/SGTG-2Sem2023/assets/117841950/81ee4c8f-2b99-4b77-98cf-9f162d69b390
 
 ## Conhecimentos Obtidos
 
@@ -401,6 +401,15 @@ A solução proposta automatiza o gerenciamento e a configuração dos dados geo
 
 ## Objetivo
 
+O objetivo do projeto GeoTrack é desenvolver uma solução escalável e eficiente para:
+
+- Armazenar grandes volumes de dados de geolocalização provenientes de dispositivos IoT
+- Consultar dados geoespaciais em tempo real de forma performática
+- Visualizar localizações e rotas de dispositivos em mapas interativos
+- Automatizar o gerenciamento e configuração de dados geoespaciais
+- Garantir segurança, integridade e consistência das informações
+- Reduzir a dependência de técnicos especializados no monitoramento
+
 ## Tecnologias Utilizadas no Projeto
 
 - **Java JDK 21.0.2:** linguagem utilizada para desenvolvimento do backend.
@@ -442,7 +451,7 @@ A solução proposta automatiza o gerenciamento e a configuração dos dados geo
 
 - Contribuí ativamente com o desenvolvimento de APIs RESTful para gerenciar sessões geométricas, permitindo operações de criação, leitura, atualização e exclusão (CRUD) dos dados.
 
-[▶️ Assista à demonstração da API CRUD para Sessões Geometricas](https://github.com/user-attachments/assets/b579fb93-4def-4e32-a488-bc8f52f933be)
+https://github.com/user-attachments/assets/b579fb93-4def-4e32-a488-bc8f52f933be
 
 ### 3. **Desenvolvimento de API para Login e Cadastro de Usuários**
 
@@ -450,7 +459,7 @@ A solução proposta automatiza o gerenciamento e a configuração dos dados geo
 
 ![image](https://github.com/user-attachments/assets/b8defedf-843f-4230-bdf4-1035e4decb5c)
 
-[▶️ Assista à demonstração da API para Login e Cadastro de Usuários](https://github.com/user-attachments/assets/05a58f73-cfc3-4bf2-9a53-5933d493bd7f)
+https://github.com/user-attachments/assets/05a58f73-cfc3-4bf2-9a53-5933d493bd7f
 
 ### Conhecimentos Obtidos
 
@@ -500,6 +509,14 @@ Com diferentes níveis de acesso (Operador, Gerente e Administrador), o sistema 
 A solução visa aumentar a eficiência, a transparência e a tomada de decisão orientada por dados na gestão de projetos.
 
 ## Objetivo
+
+O objetivo principal do projeto Track é criar uma plataforma integrada que permita:
+
+- Monitorar em tempo real o desempenho de projetos através de métricas e KPIs
+- Integrar dados do Taiga e Jira para centralizar informações de múltiplas fontes
+- Fornecer dashboards personalizados por nível de acesso (Operador, Gerente, Administrador)
+- Automatizar a coleta e transformação de dados através de processos ETL
+- Gerar insights para tomada de decisão estratégica baseada em dados
 
 ## Tecnologias Utilizadas no Projeto
 
@@ -553,7 +570,7 @@ A solução visa aumentar a eficiência, a transparência e a tomada de decisão
   - **Carga:** Inserção dos dados transformados no banco de dados PostgreSQL.
   - **Scheduling:** Automatização do processo de ETL para execução periódica, garantindo dados atualizados.
 
-[▶️ Repositório com código do ETL em Python](https://github.com/iNineBD/Track-5Sem2025ETL)
+**[Repositório com código do ETL em Python](https://github.com/iNineBD/Track-5Sem2025ETL)**
 
 ### 2. **Integração com APIs do Taiga e Jira**
 
@@ -589,7 +606,8 @@ def get_jira_data():
         url_cards_jira, headers=headers_jira, params=params, auth=auth
     )
 
-    return data = response.json()
+    data = response.json()
+    return data
 ```
 
 ### 3. **Conexão com Banco de Dados PostgreSQL**
@@ -634,6 +652,632 @@ Durante o desenvolvimento dessa aplicação, aprendi muito sobre ETL(Extract, Tr
 | Requests                 | ★★★★☆        |
 | Psycopg2                 | ★★★☆☆        |
 | PostgreSQL               | ★★★☆☆        |
+
+### Soft Skills
+
+| Habilidade                        | Classificação |
+|------------------------------------|:------------:|
+| Proatividade                       | ★★★★★        |
+| Gestão de Projetos                 | ★★★★☆        |
+| Comunicação e Colaboração          | ★★★★★        |
+| Organização, Planejamento e Entrega| ★★★★★        |
+
+<br>
+<br>
+<br>
+
+<h1 align="center">6° Semestre</h1>
+
+<div align=center><h1>Vision Data</h1></div>
+
+#### 6° Semestre • [Repositório Github](https://github.com/iNineBD/VisionData-6Sem2025Main)
+
+### Empresa Parceira • [Pro4tech](https://www.linkedin.com/company/pro4tech/)
+
+![Vision Data](https://github.com/user-attachments/assets/8459a60a-56cd-417e-a202-be2c3b99f76a)
+
+## Objetivo
+
+O projeto tem como objetivo transformar um grande volume de tickets antigos e desorganizados em uma base de conhecimento inteligente e de fácil acesso. Com isso, os colaboradores conseguem encontrar rapidamente soluções para problemas já resolvidos, reduzindo retrabalho e aumentando a eficiência no atendimento.
+
+Além disso, o sistema utiliza análise de dados para gerar métricas e insights estratégicos, permitindo que a liderança identifique tendências e tome decisões mais assertivas. O projeto também incorpora modelos estatísticos para realizar previsões temporais, possibilitando estimar a quantidade futura de tickets e antecipar demandas. Dessa forma, a empresa pode se preparar melhor, otimizar recursos e melhorar o planejamento operacional.
+
+## Objetivo
+
+O objetivo do Vision Data é criar uma plataforma inteligente que:
+
+- Organize e estruture um grande volume de tickets históricos desorganizados
+- Transforme tickets em uma base de conhecimento acessível e consultável
+- Gere métricas e insights estratégicos através de análise de dados
+- Implemente modelos de previsão temporal para estimar demandas futuras
+- Reduza retrabalho através da reutilização de soluções já implementadas
+- Melhore a eficiência do atendimento e suporte aos clientes
+- Auxilie a liderança na tomada de decisões baseadas em dados
+
+## Tecnologias Utilizadas no Projeto
+
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Datagrip](https://img.shields.io/badge/DataGrip-%23000000.svg?style=for-the-badge&logo=DataGrip&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+## Minhas Contribuições
+
+> Contribuí ativamente como desenvolvedor full Stack, desempenhando um papel geral em varias frentes do projeto, como desenvolvimento backend, frontend e ciência de dados.
+
+### Conhecimentos Obtidos
+
+### 1. **Desenvolvimento Pipelines de CI/CD**
+
+- Contribuí ativamente com o desenvolvimento dos pipelines de CI/CD utilizando GitHub Actions, automatizando o processo lint/indexação, test, build e análise estática com SonarQube.
+
+```yaml
+name: CI-Server
+
+on:
+  pull_request:
+    branches:
+      - 'API-**'
+      - develop
+      - 'sprint-**'
+      - main
+  push:
+    branches:
+      - 'API-**'
+      - develop
+      - 'sprint-**'
+      - main
+
+jobs:
+  golangci:
+    name: go-lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-go@v6
+        with:
+          go-version: stable
+
+      - name: golangci-lint
+        uses: golangci/golangci-lint-action@v8
+        with:
+          version: v2.1
+
+  go-ci:
+    needs: [golangci]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.23.2'
+          cache: true
+
+      - name: gofmt check
+        run: |
+          fmt_out=$(gofmt -l .)
+          if [ -n "$fmt_out" ]; then
+            echo "Arquivos não formatados:"
+            echo "$fmt_out"
+            exit 1
+          fi
+
+      - name: Test (all packages + race + coverage)
+        run: go test ./internal/service/... -race -cover -coverprofile=coverage.out
+
+      - name: Build
+        run: go build -o visiondata ./cmd/api/main.go
+
+  sonarqube:
+    runs-on: ubuntu-latest
+    needs: [go-ci]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/download-artifact@v4
+        with:
+          name: coverage
+      - name: SonarQube Scan
+        uses: SonarSource/sonarqube-scan-action@v6
+
+        env:
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+```
+
+### 2. **Desenvolvimento de Métricas e Insights**
+
+- Contribuí ativamente com o desenvolvimento de métricas e insights estratégicos utilizando Golang
+
+```go
+// Retorna o total de tickets
+func (s *Internal) GetTotalTickets() (int64, error) {
+    var total int64
+	err := s.db.Table("dbo.Fact_Tickets").
+		Select("SUM(QtTickets)").
+		Scan(&total).Error
+	return total, err
+}
+
+// Retorna o total de tickets agrupados por categoria
+func (s *Internal) GetTicketsByCategory() ([]struct {
+	entities.Dim_Categories
+	Total int64
+}, error) {
+	var results []struct {
+		entities.Dim_Categories
+		Total int64
+	}
+	err := s.db.Table("dbo.Fact_Tickets ft").
+		Select("dc.CategoryName, SUM(ft.QtTickets) as Total").
+		Joins("INNER JOIN dbo.Dim_Categories dc ON ft.CategoryKey = dc.CategoryKey").
+		Group("dc.CategoryName").
+		Order("Total DESC").
+		Scan(&results).Error
+	return results, err
+}
+
+// Retorna o total de tickets agrupados por prioridade
+func (s *Internal) GetTicketsByPriority() ([]struct {
+	entities.Dim_Priorities
+	Total int64
+}, error) {
+	var results []struct {
+		entities.Dim_Priorities
+		Total int64
+	}
+	err := s.db.Table("dbo.Fact_Tickets ft").
+		Select("dp.Name, SUM(ft.QtTickets) as Total").
+		Joins("INNER JOIN dbo.Dim_Priorities dp ON ft.PriorityKey = dp.PriorityKey").
+		Group("dp.Name").
+		Order("Total DESC").
+		Scan(&results).Error
+	return results, err
+}
+
+// Retorna o total de tickets por channel
+func (s *Internal) GetTicketsByChannel() ([]struct {
+	entities.Dim_Channel
+	Total int64
+}, error) {
+	var results []struct {
+		entities.Dim_Channel
+		Total int64
+	}
+	err := s.db.Table("dbo.Fact_Tickets ft").
+		Select("dc.ChannelName, SUM(ft.QtTickets) as Total").
+		Joins("INNER JOIN dbo.Dim_Channel dc ON ft.ChannelKey = dc.ChannelKey").
+		Group("dc.ChannelName").
+		Order("Total DESC").
+		Scan(&results).Error
+	return results, err
+}
+
+// Retorna o total de tickets por tag
+func (s *Internal) GetTicketsByTag() ([]struct {
+	entities.Dim_Tags
+	Total int64
+}, error) {
+	var results []struct {
+		entities.Dim_Tags
+		Total int64
+	}
+	err := s.db.Table("dbo.Fact_Tickets ft").
+		Select("dt.Name, SUM(ft.QtTickets) as Total").
+		Joins("INNER JOIN dbo.Dim_Tags dt ON ft.TagKey = dt.TagKey").
+		Group("dt.Name").
+		Order("Total DESC").
+		Scan(&results).Error
+	return results, err
+}
+
+// Retorna o total de tickets por departamento
+func (s *Internal) GetTicketsByDepartment() ([]struct {
+	entities.Dim_Companies
+	Total int64
+}, error) {
+	var results []struct {
+		entities.Dim_Companies
+		Total int64
+	}
+	err := s.db.Table("dbo.Fact_Tickets ft").
+		Select("dc.Name, SUM(ft.QtTickets) as Total").
+		Joins("INNER JOIN dbo.Dim_Companies dc ON ft.CompanyKey = dc.CompanyKey").
+		Group("dc.Name").
+		Order("Total DESC").
+		Scan(&results).Error
+	return results, err
+}
+
+// Retorna o tempo médio de resolução de tickets por prioridade
+func (s *Internal) GetAverageResolutionTime() ([]struct {
+	NomePrioridade      string  `gorm:"column:nome_prioridade"`
+	MediaResolucaoHoras float64 `gorm:"column:media_resolucao_horas"`
+	MediaResolucaoDias  float64 `gorm:"column:media_resolucao_dias"`
+}, error) {
+	var results []struct {
+		NomePrioridade      string  `gorm:"column:nome_prioridade"`
+		MediaResolucaoHoras float64 `gorm:"column:media_resolucao_horas"`
+		MediaResolucaoDias  float64 `gorm:"column:media_resolucao_dias"`
+	}
+	query := `
+    SELECT
+        dp.Name as nome_prioridade,
+        AVG(CAST(DATEDIFF(SECOND,
+            DATETIMEFROMPARTS(de.Year, de.Month, de.Day, de.Hour, de.Minute, 0,0),
+            DATETIMEFROMPARTS(dc.Year, dc.Month, dc.Day, dc.Hour, dc.Minute, 0,0)
+        ) AS FLOAT) / 3600.0) AS "media_resolucao_horas",
+        AVG(CAST(DATEDIFF(SECOND,
+            DATETIMEFROMPARTS(de.Year, de.Month, de.Day, de.Hour, de.Minute, 0,0),
+            DATETIMEFROMPARTS(dc.Year, dc.Month, dc.Day, dc.Hour, dc.Minute, 0,0)
+        ) AS FLOAT) / 86400.0) AS "media_resolucao_dias"
+    FROM dbo.Fact_Tickets ft
+    JOIN Dim_Priorities dp
+        ON ft.PriorityKey = dp.PriorityKey
+    JOIN DW.dbo.Dim_Dates de
+        ON ft.EntryDateKey = de.DateKey
+    JOIN DW.dbo.Dim_Dates dc
+        ON ft.ClosedDateKey = dc.DateKey
+    WHERE ft.ClosedDateKey IS NOT NULL
+    GROUP BY dp.Name
+    ORDER BY nome_prioridade;
+    `
+	err := s.db.Raw(query).Scan(&results).Error
+	return results, err
+}
+
+// Retorna o total de tickets por status e mês
+func (s *Internal) GetTicketsByStatusAndMonth() ([]struct {
+	NomeStatus string `gorm:"column:nome_status"`
+	Ano        int    `gorm:"column:ano"`
+	Janeiro    int    `gorm:"column:janeiro"`
+	Fevereiro  int    `gorm:"column:fevereiro"`
+	Marco      int    `gorm:"column:marco"`
+	Abril      int    `gorm:"column:abril"`
+	Maio       int    `gorm:"column:maio"`
+	Junho      int    `gorm:"column:junho"`
+	Julho      int    `gorm:"column:julho"`
+	Agosto     int    `gorm:"column:agosto"`
+	Setembro   int    `gorm:"column:setembro"`
+	Outubro    int    `gorm:"column:outubro"`
+	Novembro   int    `gorm:"column:novembro"`
+	Dezembro   int    `gorm:"column:dezembro"`
+}, error) {
+	var results []struct {
+		NomeStatus string `gorm:"column:nome_status"`
+		Ano        int    `gorm:"column:ano"`
+		Janeiro    int    `gorm:"column:janeiro"`
+		Fevereiro  int    `gorm:"column:fevereiro"`
+		Marco      int    `gorm:"column:marco"`
+		Abril      int    `gorm:"column:abril"`
+		Maio       int    `gorm:"column:maio"`
+		Junho      int    `gorm:"column:junho"`
+		Julho      int    `gorm:"column:julho"`
+		Agosto     int    `gorm:"column:agosto"`
+		Setembro   int    `gorm:"column:setembro"`
+		Outubro    int    `gorm:"column:outubro"`
+		Novembro   int    `gorm:"column:novembro"`
+		Dezembro   int    `gorm:"column:dezembro"`
+	}
+
+	query := `
+    WITH Counts AS (
+        SELECT
+            ds.Name AS status,
+            dd.Year,
+            dd.Month AS monthnum,
+            COUNT(*) AS cnt
+        FROM dbo.Fact_Tickets ft
+        JOIN DW.dbo.Dim_Dates dd
+            ON ft.EntryDateKey = dd.DateKey
+        JOIN DW.dbo.Dim_Status ds
+            ON ft.StatusKey = ds.StatusKey
+        GROUP BY ds.Name, dd.Year, dd.Month
+    ),
+    Pivoted AS (
+        SELECT
+            status,
+            [Year],
+            ISNULL(MAX(CASE WHEN monthnum = 1 THEN cnt END), 0) AS janeiro,
+            ISNULL(MAX(CASE WHEN monthnum = 2 THEN cnt END), 0) AS fevereiro,
+            ISNULL(MAX(CASE WHEN monthnum = 3 THEN cnt END), 0) AS marco,
+            ISNULL(MAX(CASE WHEN monthnum = 4 THEN cnt END), 0) AS abril,
+            ISNULL(MAX(CASE WHEN monthnum = 5 THEN cnt END), 0) AS maio,
+            ISNULL(MAX(CASE WHEN monthnum = 6 THEN cnt END), 0) AS junho,
+            ISNULL(MAX(CASE WHEN monthnum = 7 THEN cnt END), 0) AS julho,
+            ISNULL(MAX(CASE WHEN monthnum = 8 THEN cnt END), 0) AS agosto,
+            ISNULL(MAX(CASE WHEN monthnum = 9 THEN cnt END), 0) AS setembro,
+            ISNULL(MAX(CASE WHEN monthnum = 10 THEN cnt END), 0) AS outubro,
+            ISNULL(MAX(CASE WHEN monthnum = 11 THEN cnt END), 0) AS novembro,
+            ISNULL(MAX(CASE WHEN monthnum = 12 THEN cnt END), 0) AS dezembro
+        FROM Counts
+        GROUP BY status, [Year]
+    )
+    SELECT
+        status AS nome_status,
+        [Year] AS ano,
+        janeiro, fevereiro, marco, abril, maio, junho, julho, agosto, setembro, outubro, novembro, dezembro
+    FROM Pivoted
+    ORDER BY status, [Year];
+    `
+
+	err := s.db.Raw(query).Scan(&results).Error
+	return results, err
+}
+
+// Retorna o total de tickets por mês e ano
+func (s *Internal) GetTicketsByMonth() ([]struct {
+	Ano          int `gorm:"column:ano"`
+	Mes          int `gorm:"column:mes"`
+	TotalTickets int `gorm:"column:total_tickets"`
+}, error) {
+	var results []struct {
+		Ano          int `gorm:"column:ano"`
+		Mes          int `gorm:"column:mes"`
+		TotalTickets int `gorm:"column:total_tickets"`
+	}
+
+	query := `
+    SELECT
+        dd.Year AS ano,
+        dd.Month AS mes,
+        COUNT(*) AS total_tickets
+    FROM dbo.Fact_Tickets ft
+    JOIN DW.dbo.Dim_Dates dd
+        ON ft.EntryDateKey = dd.DateKey
+    GROUP BY dd.Year, dd.Month
+    ORDER BY ano, mes;
+    `
+
+	err := s.db.Raw(query).Scan(&results).Error
+	return results, err
+}
+
+// Retorna o total de tickets por prioridade e mês
+func (s *Internal) GetTicketsByPriorityAndMonth() ([]struct {
+	NomePrioridades string `gorm:"column:nome_prioridades"`
+	Ano             int    `gorm:"column:ano"`
+	Janeiro         int    `gorm:"column:janeiro"`
+	Fevereiro       int    `gorm:"column:fevereiro"`
+	Marco           int    `gorm:"column:marco"`
+	Abril           int    `gorm:"column:abril"`
+	Maio            int    `gorm:"column:maio"`
+	Junho           int    `gorm:"column:junho"`
+	Julho           int    `gorm:"column:julho"`
+	Agosto          int    `gorm:"column:agosto"`
+	Setembro        int    `gorm:"column:setembro"`
+	Outubro         int    `gorm:"column:outubro"`
+	Novembro        int    `gorm:"column:novembro"`
+	Dezembro        int    `gorm:"column:dezembro"`
+}, error) {
+	var results []struct {
+		NomePrioridades string `gorm:"column:nome_prioridades"`
+		Ano             int    `gorm:"column:ano"`
+		Janeiro         int    `gorm:"column:janeiro"`
+		Fevereiro       int    `gorm:"column:fevereiro"`
+		Marco           int    `gorm:"column:marco"`
+		Abril           int    `gorm:"column:abril"`
+		Maio            int    `gorm:"column:maio"`
+		Junho           int    `gorm:"column:junho"`
+		Julho           int    `gorm:"column:julho"`
+		Agosto          int    `gorm:"column:agosto"`
+		Setembro        int    `gorm:"column:setembro"`
+		Outubro         int    `gorm:"column:outubro"`
+		Novembro        int    `gorm:"column:novembro"`
+		Dezembro        int    `gorm:"column:dezembro"`
+	}
+
+	query := `
+    WITH Counts AS (
+        SELECT
+            dp.Name AS prioridades,
+            dd.Year,
+            dd.Month AS monthnum,
+            COUNT(*) AS cnt
+        FROM dbo.Fact_Tickets ft
+        JOIN DW.dbo.Dim_Dates dd
+            ON ft.EntryDateKey = dd.DateKey
+        JOIN DW.dbo.Dim_Priorities dp
+            ON ft.PriorityKey = dp.PriorityKey
+        GROUP BY dp.Name, dd.Year, dd.Month
+    ),
+    Pivoted AS (
+        SELECT
+            prioridades,
+            [Year],
+            ISNULL(MAX(CASE WHEN monthnum = 1 THEN cnt END), 0) AS janeiro,
+            ISNULL(MAX(CASE WHEN monthnum = 2 THEN cnt END), 0) AS fevereiro,
+            ISNULL(MAX(CASE WHEN monthnum = 3 THEN cnt END), 0) AS marco,
+            ISNULL(MAX(CASE WHEN monthnum = 4 THEN cnt END), 0) AS abril,
+            ISNULL(MAX(CASE WHEN monthnum = 5 THEN cnt END), 0) AS maio,
+            ISNULL(MAX(CASE WHEN monthnum = 6 THEN cnt END), 0) AS junho,
+            ISNULL(MAX(CASE WHEN monthnum = 7 THEN cnt END), 0) AS julho,
+            ISNULL(MAX(CASE WHEN monthnum = 8 THEN cnt END), 0) AS agosto,
+            ISNULL(MAX(CASE WHEN monthnum = 9 THEN cnt END), 0) AS setembro,
+            ISNULL(MAX(CASE WHEN monthnum = 10 THEN cnt END), 0) AS outubro,
+            ISNULL(MAX(CASE WHEN monthnum = 11 THEN cnt END), 0) AS novembro,
+            ISNULL(MAX(CASE WHEN monthnum = 12 THEN cnt END), 0) AS dezembro
+        FROM Counts
+        GROUP BY prioridades, [Year]
+    )
+    SELECT
+        prioridades AS nome_prioridades,
+        [Year] AS ano,
+        janeiro, fevereiro, marco, abril, maio, junho, julho, agosto, setembro, outubro, novembro, dezembro
+    FROM Pivoted
+    ORDER BY prioridades, [Year];
+    `
+
+	err := s.db.Raw(query).Scan(&results).Error
+	return results, err
+}
+```
+
+### 3. **Desenvolvimento de Termos de Uso e Consentimento de Dados**
+
+- Contribuí ativamente com o desenvolvimento dos Termos de Uso e Consentimento de Dados, garantindo conformidade de acordo com a LGPD (Lei Geral de Proteção de Dados). Atuei implementando os termos no backend e frontend da aplicação.
+
+> Termos de Uso ativo na aplicação:
+
+![alt text](image.png)
+
+> Termos de Uso no cadastro de usuário:
+
+![alt text](image-1.png)
+
+> Criação do Termo de Consentimento de Dados conforme a LGPD:
+
+![alt text](image-3.png)
+
+> Listagem dos Termos de Uso para o usuário Admin:
+
+![alt text](image-4.png)
+
+### 4. **Desenvolvimento de Modelos de Previsão Temporal**
+
+- Contribuí ativamente com o desenvolvimento de modelos de previsão temporal utilizando Python e bibliotecas como Prophet e Scikit-Learn.
+
+```python
+
+def train_prophet(df, test_size=0.2):
+    """Treina o modelo Prophet, salva o artefato e loga no MLflow."""
+    # Configurar MLflow para apontar para o servidor do docker-compose
+
+    df_prophet = df.rename(columns={"date": "ds", "ticket_count": "y"})
+
+    # Dividir em treino e teste
+    split_idx = int(len(df_prophet) * (1 - test_size))
+    train, test = df_prophet.iloc[:split_idx], df_prophet.iloc[split_idx:]
+
+    # Instanciar e treinar o modelo
+    model = Prophet(
+        changepoint_prior_scale=0.50,  # controla a flexibilidade da tendência, valores maiores tornam a tendência mais flexível
+        seasonality_prior_scale=20.0,  # controla a flexibilidade da sazonalidade, valores maiores permitem variações sazonais mais intensas, valores menores reduzem essas variações.
+        holidays_prior_scale=10.0,  # controla o impacto dos feriados no modelo, valores maiores aumentam o impacto dos feriados, valores menores o reduzem.
+        seasonality_mode="multiplicative",  # controla como a sazonalidade é aplicada, "multiplicative" significa que a sazonalidade é multiplicada pela tendência, ao invés de somada("additive").
+    )
+
+    # Adicionar feriados
+    model.add_country_holidays(country_name="US")
+
+    # Adicionar sazonalidade mensal
+    model.add_seasonality(name="monthly", period=30.5, fourier_order=5)
+    model.fit(train)
+
+    # Fazer previsões no conjunto de teste
+    future = test[["ds"]]
+    y_pred = model.predict(future)["yhat"]
+    y_test = test["y"]
+
+    # Calcular métricas
+    mae = mean_absolute_error(y_test, y_pred)
+    mse = mean_squared_error(y_test, y_pred)
+    r2 = r2_score(y_test, y_pred)
+
+    with mlflow.start_run(run_name="Prophet"):
+        
+        # Logar métricas
+        mlflow.log_metrics({"mae": mae, "mse": mse, "rmse": np.sqrt(mse), "r2": r2})
+
+        # Logar parâmetros
+        mlflow.log_params(
+            {
+                "changepoint_prior_scale": 0.50,
+                "seasonality_prior_scale": 20.0,
+                "holidays_prior_scale": 10.0,
+                "seasonality_mode": "multiplicative",
+            }
+        )
+
+        # Salvar modelo Prophet como artefato local
+        models_dir = REPO_ROOT / "models" / "all_tickets_kaggle"
+        models_dir.mkdir(parents=True, exist_ok=True)
+        model_path = models_dir / "prophet_model.json"
+        with open(model_path, "w") as fout:
+            fout.write(model_to_json(model))
+
+        # Logar modelo como artifact no MLflow
+        mlflow.log_artifact(str(model_path), artifact_path="model")
+
+        # Plotar os resultados e salvar imagem
+        plt_path = plot_predictions(train["y"], y_test, y_pred, "Prophet Otimizado")
+
+        # Logar a imagem no MLflow
+        mlflow.log_artifact(str(plt_path), artifact_path="plots")
+
+    print(f"✓ Modelo Prophet salvo em {model_path}")
+    print(f"Prophet - MAE: {mae:.2f}, MSE: {mse:.2f}, R2: {r2:.4f}")
+
+    return model, y_pred
+
+```
+
+### 5. **Implementação do Mlflow para Gerenciamento de Modelos**
+
+- Contribuí ativamente com a implementação do Mlflow para gerenciamento de modelos, facilitando o rastreamento de experimentos, armazenamento de modelos e colaboração entre a equipe.
+
+> Implementação do Mlflow no código de treinamento do modelo Prophet:
+
+```python
+
+import mlflow
+
+mlflow.set_tracking_uri("http://mlflow:5000")
+mlflow.set_experiment("all_tickets_kagglee")
+mlflow.autolog(disable=True)
+
+with mlflow.start_run(run_name="Prophet"):
+
+    # Logar métricas
+    mlflow.log_metrics({"mae": mae, "mse": mse, "rmse": np.sqrt(mse), "r2": r2})
+        
+    # Logar parâmetros
+    mlflow.log_params(
+        {
+            "changepoint_prior_scale": 0.50,
+            "seasonality_prior_scale": 20.0,
+            "holidays_prior_scale": 10.0,
+            "seasonality_mode": "multiplicative",
+        }
+    )
+
+
+    # Código de treinamento
+    ...
+
+# Logar modelo como artifact no MLflow
+mlflow.log_artifact(str(model_path), artifact_path="model")
+```
+
+> Interface do Mlflow para rastreamento de experimentos:
+
+![alt text](image-2.png)
+
+### Conhecimentos Obtidos
+
+Durante o desenvolvimento dessa aplicação, aprendi muito sobre pipelines de CI/CD utilizando GitHub Actions, desenvolvimento backend com Golang, criação de Termos de Uso e Consentimento de Dados conforme a LGPD, desenvolvimento de modelos de previsão temporal com Prophet e Scikit-Learn, além da implementação do Mlflow para gerenciamento de modelos. Esses conhecimentos foram fundamentais para o sucesso do projeto e aprimoraram minhas habilidades como desenvolvedor full Stack.
+
+### Hard Skills
+
+| Tecnologia/Metodologia   | Classificação |
+|--------------------------|:------------:|
+| GitHub Actions           | ★★★★★        |
+| Golang                   | ★★★★☆        |
+| Python                   | ★★★★☆        |
+| Prophet                  | ★★★☆☆        |
+| Scikit-Learn             | ★★★☆☆        |
+| MLflow                   | ★★★☆☆        |
+| LGPD                     | ★★★☆☆        |
 
 ### Soft Skills
 
