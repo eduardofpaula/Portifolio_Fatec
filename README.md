@@ -1129,19 +1129,19 @@ func (s *Internal) GetTicketsByPriorityAndMonth() ([]struct {
 
 > Termos de Uso ativo na aplicação:
 
-![alt text](image.png)
+<img width="909" height="728" alt="image" src="https://github.com/user-attachments/assets/5b40bdd6-82b6-4401-9bb6-c5c7537fd352" />
 
 > Termos de Uso no cadastro de usuário:
 
-![alt text](image-1.png)
+<img width="1516" height="798" alt="image" src="https://github.com/user-attachments/assets/4e856fcc-6472-4dbf-9d76-0a78df4ffaaf" />
 
 > Criação do Termo de Consentimento de Dados conforme a LGPD:
 
-![alt text](image-3.png)
+<img width="1642" height="742" alt="image" src="https://github.com/user-attachments/assets/2b29b71f-30aa-4488-a425-f18600ccace9" />
 
 > Listagem dos Termos de Uso para o usuário Admin:
 
-![alt text](image-4.png)
+<img width="1634" height="767" alt="image" src="https://github.com/user-attachments/assets/e24759c4-99d9-4cdb-9041-64391b8b47ef" />
 
 ### 4. **Desenvolvimento de Modelos de Previsão Temporal**
 
@@ -1261,7 +1261,7 @@ mlflow.log_artifact(str(model_path), artifact_path="model")
 
 > Interface do Mlflow para rastreamento de experimentos:
 
-![alt text](image-2.png)
+<img width="1681" height="861" alt="image" src="https://github.com/user-attachments/assets/54471b99-5d32-4aa6-9ed2-9ee41041e428" />
 
 ### Conhecimentos Obtidos
 
