@@ -1,13 +1,64 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Portifólio%20API&fontSize=50&fontColor=1A4870">
+<div align="center">
+    <img src="https://avatars.githubusercontent.com/u/eduardofpaula" alt="Eduardo Farias" width="180" style="border-radius: 50%;" />
+</div>
 
-### Olá, meu nome é Eduardo Farias, tenho 24 anos de idade, moro em Jacareí - São Paulo, Brasil
+# Olá, meu nome é Eduardo Farias
 
-### Sou formado em Tecnologia em Banco de Dados na Fatec-SJC
+Tenho 24 anos, moro em Jacareí - São Paulo, Brasil.
+
+Comecei minha jornada profissional aos 16 anos trabalhando no comercio varejista, logo depois migrei para a área da saúde animal, onde trabalhei por 2 anos como auxiliar veterinário.
+
+Logo após, iniciei minha jornada na área de tecnologia em 2023, iniciando um curso técnico em Banco de Dados pelo Senai-SJC, onde tive meu primeiro contato com SQL, modelagem de dados e administração de banco de dados. Posteriormente, ingressei na Fatec São José dos Campos, onde aprofundei meus conhecimentos em banco de dados, desenvolvimento web.
+
+Durante o período acadêmico, participei de diversos projetos práticos que me proporcionaram experiência real na área de tecnologia, incluindo desenvolvimento de aplicações web e análise de dados.
+
+Atualmente, trabalho como Analista de Dados Jr na DM, onde aplico meus conhecimentos em implantação e operacionalização de modelos de machine learning (MLOps) para modelagem de risco de crédito.
+
+## Histórico Acadêmico
+
+- **Formação:** Curso livre de banco de dados pelo [Senai-SJC](https://www.sp.senai.br/).
+- **Formação:** Curso Intensivo de Desenvolvimento Web pela [mesttra](https://www.mesttra.com/).
+- **Formação:** Tecnologia em Banco de Dados pela [Fatec-SJC](https://fatecsjc-prd.azurewebsites.net/).
+
+## Histórico Profissional
+
+- Estagiário em redes, hardware e suporte técnico.
+- Estagiario na area de risco de credito, focado em implementação e operacionalização de modelos de machine learning (MLOps) para modelagem de risco na [DM](https://www.vocedm.com.br/portal/).
+- Analista de Dados Jr na [DM](https://www.vocedm.com.br/portal/).
 
 ## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardofariasp/)
 [![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardofpaula)
+[![E-mail](https://img.shields.io/badge/email-1A4870.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardo.fariasp@outlook.com)
+
+## Meus Principais Conhecimentos
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FFD43B?logo=python&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-d9ead3?logo=numpy&logoColor=blue)
+
+---
+
+## Índice de Semestres
+
+- [1° Semestre - Avaliação 360º](#1-semestre)
+- [2° Semestre - Sistema Gerenciador de Trabalhos de Graduação (SGTG)](#2-semestre)
+- [3° Semestre - DataFlow](#3-semestre)
+- [4° Semestre - GeoTrack](#4-semestre)
+- [5° Semestre - Track](#5-semestre)
+- [6° Semestre - Vision Data](#6-semestre)
 
 <h1 align="center">1° Semestre</h1>
 
@@ -204,7 +255,7 @@ O sistema permite o controle de prazos, acompanhamento de etapas, registro de or
 
 **Funcionalidade Transporte de Notas:**
 
-https://github.com/iNineBD/SGTG-2Sem2023/assets/127275110/fbfbe219-08af-4465-a625-c5697b584588
+<https://github.com/iNineBD/SGTG-2Sem2023/assets/127275110/fbfbe219-08af-4465-a625-c5697b584588>
 
 ### 3. **Funcionalidade Gerenciamento de Alunos**
 
@@ -212,7 +263,7 @@ https://github.com/iNineBD/SGTG-2Sem2023/assets/127275110/fbfbe219-08af-4465-a62
 
 **Funcionalidade Gerenciamento de Alunos:**
 
-https://github.com/iNineBD/SGTG-2Sem2023/assets/117841950/81ee4c8f-2b99-4b77-98cf-9f162d69b390
+<https://github.com/iNineBD/SGTG-2Sem2023/assets/117841950/81ee4c8f-2b99-4b77-98cf-9f162d69b390>
 
 ## Conhecimentos Obtidos
 
@@ -451,7 +502,7 @@ O objetivo do projeto GeoTrack é desenvolver uma solução escalável e eficien
 
 - Contribuí ativamente com o desenvolvimento de APIs RESTful para gerenciar sessões geométricas, permitindo operações de criação, leitura, atualização e exclusão (CRUD) dos dados.
 
-https://github.com/user-attachments/assets/b579fb93-4def-4e32-a488-bc8f52f933be
+<https://github.com/user-attachments/assets/b579fb93-4def-4e32-a488-bc8f52f933be>
 
 ### 3. **Desenvolvimento de API para Login e Cadastro de Usuários**
 
@@ -459,7 +510,7 @@ https://github.com/user-attachments/assets/b579fb93-4def-4e32-a488-bc8f52f933be
 
 ![image](https://github.com/user-attachments/assets/b8defedf-843f-4230-bdf4-1035e4decb5c)
 
-https://github.com/user-attachments/assets/05a58f73-cfc3-4bf2-9a53-5933d493bd7f
+<https://github.com/user-attachments/assets/05a58f73-cfc3-4bf2-9a53-5933d493bd7f>
 
 ### Conhecimentos Obtidos
 
@@ -803,114 +854,114 @@ jobs:
 // Retorna o total de tickets
 func (s *Internal) GetTotalTickets() (int64, error) {
     var total int64
-	err := s.db.Table("dbo.Fact_Tickets").
-		Select("SUM(QtTickets)").
-		Scan(&total).Error
-	return total, err
+ err := s.db.Table("dbo.Fact_Tickets").
+  Select("SUM(QtTickets)").
+  Scan(&total).Error
+ return total, err
 }
 
 // Retorna o total de tickets agrupados por categoria
 func (s *Internal) GetTicketsByCategory() ([]struct {
-	entities.Dim_Categories
-	Total int64
+ entities.Dim_Categories
+ Total int64
 }, error) {
-	var results []struct {
-		entities.Dim_Categories
-		Total int64
-	}
-	err := s.db.Table("dbo.Fact_Tickets ft").
-		Select("dc.CategoryName, SUM(ft.QtTickets) as Total").
-		Joins("INNER JOIN dbo.Dim_Categories dc ON ft.CategoryKey = dc.CategoryKey").
-		Group("dc.CategoryName").
-		Order("Total DESC").
-		Scan(&results).Error
-	return results, err
+ var results []struct {
+  entities.Dim_Categories
+  Total int64
+ }
+ err := s.db.Table("dbo.Fact_Tickets ft").
+  Select("dc.CategoryName, SUM(ft.QtTickets) as Total").
+  Joins("INNER JOIN dbo.Dim_Categories dc ON ft.CategoryKey = dc.CategoryKey").
+  Group("dc.CategoryName").
+  Order("Total DESC").
+  Scan(&results).Error
+ return results, err
 }
 
 // Retorna o total de tickets agrupados por prioridade
 func (s *Internal) GetTicketsByPriority() ([]struct {
-	entities.Dim_Priorities
-	Total int64
+ entities.Dim_Priorities
+ Total int64
 }, error) {
-	var results []struct {
-		entities.Dim_Priorities
-		Total int64
-	}
-	err := s.db.Table("dbo.Fact_Tickets ft").
-		Select("dp.Name, SUM(ft.QtTickets) as Total").
-		Joins("INNER JOIN dbo.Dim_Priorities dp ON ft.PriorityKey = dp.PriorityKey").
-		Group("dp.Name").
-		Order("Total DESC").
-		Scan(&results).Error
-	return results, err
+ var results []struct {
+  entities.Dim_Priorities
+  Total int64
+ }
+ err := s.db.Table("dbo.Fact_Tickets ft").
+  Select("dp.Name, SUM(ft.QtTickets) as Total").
+  Joins("INNER JOIN dbo.Dim_Priorities dp ON ft.PriorityKey = dp.PriorityKey").
+  Group("dp.Name").
+  Order("Total DESC").
+  Scan(&results).Error
+ return results, err
 }
 
 // Retorna o total de tickets por channel
 func (s *Internal) GetTicketsByChannel() ([]struct {
-	entities.Dim_Channel
-	Total int64
+ entities.Dim_Channel
+ Total int64
 }, error) {
-	var results []struct {
-		entities.Dim_Channel
-		Total int64
-	}
-	err := s.db.Table("dbo.Fact_Tickets ft").
-		Select("dc.ChannelName, SUM(ft.QtTickets) as Total").
-		Joins("INNER JOIN dbo.Dim_Channel dc ON ft.ChannelKey = dc.ChannelKey").
-		Group("dc.ChannelName").
-		Order("Total DESC").
-		Scan(&results).Error
-	return results, err
+ var results []struct {
+  entities.Dim_Channel
+  Total int64
+ }
+ err := s.db.Table("dbo.Fact_Tickets ft").
+  Select("dc.ChannelName, SUM(ft.QtTickets) as Total").
+  Joins("INNER JOIN dbo.Dim_Channel dc ON ft.ChannelKey = dc.ChannelKey").
+  Group("dc.ChannelName").
+  Order("Total DESC").
+  Scan(&results).Error
+ return results, err
 }
 
 // Retorna o total de tickets por tag
 func (s *Internal) GetTicketsByTag() ([]struct {
-	entities.Dim_Tags
-	Total int64
+ entities.Dim_Tags
+ Total int64
 }, error) {
-	var results []struct {
-		entities.Dim_Tags
-		Total int64
-	}
-	err := s.db.Table("dbo.Fact_Tickets ft").
-		Select("dt.Name, SUM(ft.QtTickets) as Total").
-		Joins("INNER JOIN dbo.Dim_Tags dt ON ft.TagKey = dt.TagKey").
-		Group("dt.Name").
-		Order("Total DESC").
-		Scan(&results).Error
-	return results, err
+ var results []struct {
+  entities.Dim_Tags
+  Total int64
+ }
+ err := s.db.Table("dbo.Fact_Tickets ft").
+  Select("dt.Name, SUM(ft.QtTickets) as Total").
+  Joins("INNER JOIN dbo.Dim_Tags dt ON ft.TagKey = dt.TagKey").
+  Group("dt.Name").
+  Order("Total DESC").
+  Scan(&results).Error
+ return results, err
 }
 
 // Retorna o total de tickets por departamento
 func (s *Internal) GetTicketsByDepartment() ([]struct {
-	entities.Dim_Companies
-	Total int64
+ entities.Dim_Companies
+ Total int64
 }, error) {
-	var results []struct {
-		entities.Dim_Companies
-		Total int64
-	}
-	err := s.db.Table("dbo.Fact_Tickets ft").
-		Select("dc.Name, SUM(ft.QtTickets) as Total").
-		Joins("INNER JOIN dbo.Dim_Companies dc ON ft.CompanyKey = dc.CompanyKey").
-		Group("dc.Name").
-		Order("Total DESC").
-		Scan(&results).Error
-	return results, err
+ var results []struct {
+  entities.Dim_Companies
+  Total int64
+ }
+ err := s.db.Table("dbo.Fact_Tickets ft").
+  Select("dc.Name, SUM(ft.QtTickets) as Total").
+  Joins("INNER JOIN dbo.Dim_Companies dc ON ft.CompanyKey = dc.CompanyKey").
+  Group("dc.Name").
+  Order("Total DESC").
+  Scan(&results).Error
+ return results, err
 }
 
 // Retorna o tempo médio de resolução de tickets por prioridade
 func (s *Internal) GetAverageResolutionTime() ([]struct {
-	NomePrioridade      string  `gorm:"column:nome_prioridade"`
-	MediaResolucaoHoras float64 `gorm:"column:media_resolucao_horas"`
-	MediaResolucaoDias  float64 `gorm:"column:media_resolucao_dias"`
+ NomePrioridade      string  `gorm:"column:nome_prioridade"`
+ MediaResolucaoHoras float64 `gorm:"column:media_resolucao_horas"`
+ MediaResolucaoDias  float64 `gorm:"column:media_resolucao_dias"`
 }, error) {
-	var results []struct {
-		NomePrioridade      string  `gorm:"column:nome_prioridade"`
-		MediaResolucaoHoras float64 `gorm:"column:media_resolucao_horas"`
-		MediaResolucaoDias  float64 `gorm:"column:media_resolucao_dias"`
-	}
-	query := `
+ var results []struct {
+  NomePrioridade      string  `gorm:"column:nome_prioridade"`
+  MediaResolucaoHoras float64 `gorm:"column:media_resolucao_horas"`
+  MediaResolucaoDias  float64 `gorm:"column:media_resolucao_dias"`
+ }
+ query := `
     SELECT
         dp.Name as nome_prioridade,
         AVG(CAST(DATEDIFF(SECOND,
@@ -932,45 +983,45 @@ func (s *Internal) GetAverageResolutionTime() ([]struct {
     GROUP BY dp.Name
     ORDER BY nome_prioridade;
     `
-	err := s.db.Raw(query).Scan(&results).Error
-	return results, err
+ err := s.db.Raw(query).Scan(&results).Error
+ return results, err
 }
 
 // Retorna o total de tickets por status e mês
 func (s *Internal) GetTicketsByStatusAndMonth() ([]struct {
-	NomeStatus string `gorm:"column:nome_status"`
-	Ano        int    `gorm:"column:ano"`
-	Janeiro    int    `gorm:"column:janeiro"`
-	Fevereiro  int    `gorm:"column:fevereiro"`
-	Marco      int    `gorm:"column:marco"`
-	Abril      int    `gorm:"column:abril"`
-	Maio       int    `gorm:"column:maio"`
-	Junho      int    `gorm:"column:junho"`
-	Julho      int    `gorm:"column:julho"`
-	Agosto     int    `gorm:"column:agosto"`
-	Setembro   int    `gorm:"column:setembro"`
-	Outubro    int    `gorm:"column:outubro"`
-	Novembro   int    `gorm:"column:novembro"`
-	Dezembro   int    `gorm:"column:dezembro"`
+ NomeStatus string `gorm:"column:nome_status"`
+ Ano        int    `gorm:"column:ano"`
+ Janeiro    int    `gorm:"column:janeiro"`
+ Fevereiro  int    `gorm:"column:fevereiro"`
+ Marco      int    `gorm:"column:marco"`
+ Abril      int    `gorm:"column:abril"`
+ Maio       int    `gorm:"column:maio"`
+ Junho      int    `gorm:"column:junho"`
+ Julho      int    `gorm:"column:julho"`
+ Agosto     int    `gorm:"column:agosto"`
+ Setembro   int    `gorm:"column:setembro"`
+ Outubro    int    `gorm:"column:outubro"`
+ Novembro   int    `gorm:"column:novembro"`
+ Dezembro   int    `gorm:"column:dezembro"`
 }, error) {
-	var results []struct {
-		NomeStatus string `gorm:"column:nome_status"`
-		Ano        int    `gorm:"column:ano"`
-		Janeiro    int    `gorm:"column:janeiro"`
-		Fevereiro  int    `gorm:"column:fevereiro"`
-		Marco      int    `gorm:"column:marco"`
-		Abril      int    `gorm:"column:abril"`
-		Maio       int    `gorm:"column:maio"`
-		Junho      int    `gorm:"column:junho"`
-		Julho      int    `gorm:"column:julho"`
-		Agosto     int    `gorm:"column:agosto"`
-		Setembro   int    `gorm:"column:setembro"`
-		Outubro    int    `gorm:"column:outubro"`
-		Novembro   int    `gorm:"column:novembro"`
-		Dezembro   int    `gorm:"column:dezembro"`
-	}
+ var results []struct {
+  NomeStatus string `gorm:"column:nome_status"`
+  Ano        int    `gorm:"column:ano"`
+  Janeiro    int    `gorm:"column:janeiro"`
+  Fevereiro  int    `gorm:"column:fevereiro"`
+  Marco      int    `gorm:"column:marco"`
+  Abril      int    `gorm:"column:abril"`
+  Maio       int    `gorm:"column:maio"`
+  Junho      int    `gorm:"column:junho"`
+  Julho      int    `gorm:"column:julho"`
+  Agosto     int    `gorm:"column:agosto"`
+  Setembro   int    `gorm:"column:setembro"`
+  Outubro    int    `gorm:"column:outubro"`
+  Novembro   int    `gorm:"column:novembro"`
+  Dezembro   int    `gorm:"column:dezembro"`
+ }
 
-	query := `
+ query := `
     WITH Counts AS (
         SELECT
             ds.Name AS status,
@@ -1011,23 +1062,23 @@ func (s *Internal) GetTicketsByStatusAndMonth() ([]struct {
     ORDER BY status, [Year];
     `
 
-	err := s.db.Raw(query).Scan(&results).Error
-	return results, err
+ err := s.db.Raw(query).Scan(&results).Error
+ return results, err
 }
 
 // Retorna o total de tickets por mês e ano
 func (s *Internal) GetTicketsByMonth() ([]struct {
-	Ano          int `gorm:"column:ano"`
-	Mes          int `gorm:"column:mes"`
-	TotalTickets int `gorm:"column:total_tickets"`
+ Ano          int `gorm:"column:ano"`
+ Mes          int `gorm:"column:mes"`
+ TotalTickets int `gorm:"column:total_tickets"`
 }, error) {
-	var results []struct {
-		Ano          int `gorm:"column:ano"`
-		Mes          int `gorm:"column:mes"`
-		TotalTickets int `gorm:"column:total_tickets"`
-	}
+ var results []struct {
+  Ano          int `gorm:"column:ano"`
+  Mes          int `gorm:"column:mes"`
+  TotalTickets int `gorm:"column:total_tickets"`
+ }
 
-	query := `
+ query := `
     SELECT
         dd.Year AS ano,
         dd.Month AS mes,
@@ -1039,45 +1090,45 @@ func (s *Internal) GetTicketsByMonth() ([]struct {
     ORDER BY ano, mes;
     `
 
-	err := s.db.Raw(query).Scan(&results).Error
-	return results, err
+ err := s.db.Raw(query).Scan(&results).Error
+ return results, err
 }
 
 // Retorna o total de tickets por prioridade e mês
 func (s *Internal) GetTicketsByPriorityAndMonth() ([]struct {
-	NomePrioridades string `gorm:"column:nome_prioridades"`
-	Ano             int    `gorm:"column:ano"`
-	Janeiro         int    `gorm:"column:janeiro"`
-	Fevereiro       int    `gorm:"column:fevereiro"`
-	Marco           int    `gorm:"column:marco"`
-	Abril           int    `gorm:"column:abril"`
-	Maio            int    `gorm:"column:maio"`
-	Junho           int    `gorm:"column:junho"`
-	Julho           int    `gorm:"column:julho"`
-	Agosto          int    `gorm:"column:agosto"`
-	Setembro        int    `gorm:"column:setembro"`
-	Outubro         int    `gorm:"column:outubro"`
-	Novembro        int    `gorm:"column:novembro"`
-	Dezembro        int    `gorm:"column:dezembro"`
+ NomePrioridades string `gorm:"column:nome_prioridades"`
+ Ano             int    `gorm:"column:ano"`
+ Janeiro         int    `gorm:"column:janeiro"`
+ Fevereiro       int    `gorm:"column:fevereiro"`
+ Marco           int    `gorm:"column:marco"`
+ Abril           int    `gorm:"column:abril"`
+ Maio            int    `gorm:"column:maio"`
+ Junho           int    `gorm:"column:junho"`
+ Julho           int    `gorm:"column:julho"`
+ Agosto          int    `gorm:"column:agosto"`
+ Setembro        int    `gorm:"column:setembro"`
+ Outubro         int    `gorm:"column:outubro"`
+ Novembro        int    `gorm:"column:novembro"`
+ Dezembro        int    `gorm:"column:dezembro"`
 }, error) {
-	var results []struct {
-		NomePrioridades string `gorm:"column:nome_prioridades"`
-		Ano             int    `gorm:"column:ano"`
-		Janeiro         int    `gorm:"column:janeiro"`
-		Fevereiro       int    `gorm:"column:fevereiro"`
-		Marco           int    `gorm:"column:marco"`
-		Abril           int    `gorm:"column:abril"`
-		Maio            int    `gorm:"column:maio"`
-		Junho           int    `gorm:"column:junho"`
-		Julho           int    `gorm:"column:julho"`
-		Agosto          int    `gorm:"column:agosto"`
-		Setembro        int    `gorm:"column:setembro"`
-		Outubro         int    `gorm:"column:outubro"`
-		Novembro        int    `gorm:"column:novembro"`
-		Dezembro        int    `gorm:"column:dezembro"`
-	}
+ var results []struct {
+  NomePrioridades string `gorm:"column:nome_prioridades"`
+  Ano             int    `gorm:"column:ano"`
+  Janeiro         int    `gorm:"column:janeiro"`
+  Fevereiro       int    `gorm:"column:fevereiro"`
+  Marco           int    `gorm:"column:marco"`
+  Abril           int    `gorm:"column:abril"`
+  Maio            int    `gorm:"column:maio"`
+  Junho           int    `gorm:"column:junho"`
+  Julho           int    `gorm:"column:julho"`
+  Agosto          int    `gorm:"column:agosto"`
+  Setembro        int    `gorm:"column:setembro"`
+  Outubro         int    `gorm:"column:outubro"`
+  Novembro        int    `gorm:"column:novembro"`
+  Dezembro        int    `gorm:"column:dezembro"`
+ }
 
-	query := `
+ query := `
     WITH Counts AS (
         SELECT
             dp.Name AS prioridades,
@@ -1118,8 +1169,8 @@ func (s *Internal) GetTicketsByPriorityAndMonth() ([]struct {
     ORDER BY prioridades, [Year];
     `
 
-	err := s.db.Raw(query).Scan(&results).Error
-	return results, err
+ err := s.db.Raw(query).Scan(&results).Error
+ return results, err
 }
 ```
 
